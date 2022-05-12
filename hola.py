@@ -45,3 +45,4 @@ while(num < len(lista1)):
 print("Lista de valores numericos: \n" ,lista1)
 print("Lista de numeros positivos: ", num_pos) 
 print("Lista de numeros negativos: ", num_neg)
+print("Hola")
